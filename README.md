@@ -1,5 +1,5 @@
-# Software Engineer with a director's lens
-### Screenwriting code and directing it from script to screen
+<p align="center">
+  <b>Software Software Engineer with a director's lens<br>Screenwriting code and directing it from script to screen</b></p>
 
 <!--
 **Zahraa-Najdi/Zahraa-Najdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
