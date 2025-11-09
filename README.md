@@ -1,4 +1,5 @@
-## Hi there 👋
+## Software Engineer with a director's lens.
+## Screenwriting code and directing it from scenarios to cinema.
 
 <!--
 **Zahraa-Najdi/Zahraa-Najdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
